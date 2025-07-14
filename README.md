@@ -17,10 +17,7 @@ A polished iOS application built with **SwiftUI** that recreates several popular
 | Light Mode | Dark Mode |
 |------------|-----------|
 
-
-*(Add more screenshots or a short GIF demo here.)*
-
----<img width="445" height="899" alt="Screenshot 2025-07-14 at 23 05 17" src="https://github.com/user-attachments/assets/df843cdc-e217-45f9-ad70-d68b6fd29274" />
+<img width="445" height="899" alt="Screenshot 2025-07-14 at 23 05 17" src="https://github.com/user-attachments/assets/df843cdc-e217-45f9-ad70-d68b6fd29274" />
 
 
 ## 🚀 Getting Started
@@ -29,5 +26,3 @@ A polished iOS application built with **SwiftUI** that recreates several popular
 - Xcode 15+
 - iOS 17+ SDK
 - Swift 5.9+
-
-### Installation
