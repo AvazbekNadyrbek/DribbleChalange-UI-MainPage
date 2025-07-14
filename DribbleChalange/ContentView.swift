@@ -55,6 +55,7 @@ struct ContentView: View {
             // Main TabView content
             TabView(selection: $selectedTab) {
                 HomeView()
+                    .background(Color("Background1"))
                     .tag(TabCustom.home)
                 
                 FavoritesView()
