@@ -1,7 +1,6 @@
 # DribbleChallenge 📱
 
-A polished iOS application built with **SwiftUI** that recreates several popular design concepts from Dribbble.  The project showcases clean architecture, modern Swift language features, custom UI components, and best-practice development workflows.  Use it as a living portfolio piece when applying for iOS roles.
-
+A polished iOS application built with **SwiftUI** that recreates several popular design concepts from Dribbble.  The project showcases clean architecture, modern Swift language features, custom UI components, and best-practice development workflows.  
 ---
 
 ## ✨ Key Features
